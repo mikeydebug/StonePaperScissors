@@ -2,14 +2,14 @@
 
 A simple yet visually appealing **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer and see if you can win!
 
-![Game Preview](./images/preview.png) <!-- Optional: Replace with actual screenshot -->
+
 <img width="1710" alt="Screenshot 2025-06-28 at 10 51 51 AM" src="https://github.com/user-attachments/assets/bf582629-e49c-4c0d-8018-2bae975a6972" />
 
 ---
 
 ## 🚀 Live Demo
 
-[👉 Play Now](https://your-deployment-link.com) <!-- Replace with live GitHub Pages or Netlify link -->
+[👉 Play Now](https://your-deployment-link.com) 
 
 ---
 
@@ -26,19 +26,20 @@ A simple yet visually appealing **Rock Paper Scissors** game built using **HTML*
 
 ## 📂 Project Structure
 
-StonePaperScissors/
+StonePaperScissors
+
 │
-├── index.html       # Main HTML structure
-├── style.css        # Styling and layout
-├── script.js        # Game logic and interactivity
-└── images/          # Rock, Paper, Scissors icons
+├── index.html         Main HTML structure
+├── style.css          Styling and layout
+├── script.js          Game logic and interactivity
+└── images/            Rock, Paper, Scissors icons
 ---
 
 ## 📸 Screenshots
 
 | Game Start | User Wins | Draw |
 |------------|------------|------|
-| ![start](./images/screenshot1.png) | ![win](./images/screenshot2.png) | ![draw](./images/screenshot3.png) |
+| ![start](<img width="855" alt="Screenshot 2025-06-28 at 10 57 02 AM" src="https://github.com/user-attachments/assets/eaf4a475-c240-4f7a-8137-01b06da81d0d" />) | ![win](<img width="793" alt="Screenshot 2025-06-28 at 10 57 58 AM" src="https://github.com/user-attachments/assets/5c82d53c-5704-462f-ad56-284ef8a9fed6" />) | ![draw](<img width="732" alt="Screenshot 2025-06-28 at 10 58 32 AM" src="https://github.com/user-attachments/assets/431383cc-bb20-46fa-858e-3928968009d0" />) |
 
 ---
 
@@ -65,7 +66,7 @@ StonePaperScissors/
 
 ## 🧑‍💻 How to Run Locally
 
-```bash
+
 # Clone the repo
 git clone https://github.com/your-username/StonePaperScissors.git
 
@@ -73,12 +74,16 @@ git clone https://github.com/your-username/StonePaperScissors.git
 cd StonePaperScissors
 
 # Open index.html in your browser
+---
+
 
 ## 🏗️ Future Improvements
-	•	Add background music and sound effects 🎵
-	•	Add animations to each round 🔄
-	•	Implement dark/light mode toggle 🌙☀️
-	•	Deploy with GitHub Pages or Netlify 🚀
+
+•	Add background music and sound effects 🎵
+•	Add animations to each round 🔄
+•	Implement dark/light mode toggle 🌙☀️
+•	Deploy with GitHub Pages or Netlify 🚀
+---
 
 ## 📄 License
 
