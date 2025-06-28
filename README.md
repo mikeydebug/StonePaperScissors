@@ -40,7 +40,7 @@ StonePaperScissors
 
 | Game Start | User Wins | Draw |
 |------------|------------|------|
-| (<img width="855" alt="Screenshot 2025-06-28 at 10 57 02 AM" src="https://github.com/user-attachments/assets/eaf4a475-c240-4f7a-8137-01b06da81d0d" />) | (<img width="793" alt="Screenshot 2025-06-28 at 10 57 58 AM" src="https://github.com/user-attachments/assets/5c82d53c-5704-462f-ad56-284ef8a9fed6" />) | (<img width="732" alt="Screenshot 2025-06-28 at 10 58 32 AM" src="https://github.com/user-attachments/assets/431383cc-bb20-46fa-858e-3928968009d0" />) |
+| ![start](<img width="855" alt="Screenshot 2025-06-28 at 10 57 02 AM" src="https://github.com/user-attachments/assets/eaf4a475-c240-4f7a-8137-01b06da81d0d" />) | ![win](<img width="793" alt="Screenshot 2025-06-28 at 10 57 58 AM" src="https://github.com/user-attachments/assets/5c82d53c-5704-462f-ad56-284ef8a9fed6" />) |  ![draw](<img width="732" alt="Screenshot 2025-06-28 at 10 58 32 AM" src="https://github.com/user-attachments/assets/431383cc-bb20-46fa-858e-3928968009d0" />) |
 
 ---
 
