@@ -26,6 +26,7 @@ A simple yet visually appealing **Rock Paper Scissors** game built using **HTML*
 
 ## 📂 Project Structure
 
+
 StonePaperScissors
 
 │
@@ -68,7 +69,7 @@ StonePaperScissors
 
 
 # Clone the repo
-git clone https://github.com/your-username/StonePaperScissors.git
+git clone https://github.com/mikeydebug/StonePaperScissors.git
 
 # Navigate into the directory
 cd StonePaperScissors
